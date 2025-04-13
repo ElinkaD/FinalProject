@@ -1,0 +1,4 @@
+*.uasset binary
+*.umap binary
+*.log text
+Saved/Logs/*
